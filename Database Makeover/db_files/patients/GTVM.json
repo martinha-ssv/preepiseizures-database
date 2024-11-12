@@ -1,0 +1,27 @@
+{
+  "gender": "f",
+  "diagnosis": {
+    "type": "refractory"
+  },
+  "aura":  false,
+  "medication": [
+  {
+    "name": "VPA",
+    "prescription": [
+      {"dose_mg": 500,
+      "time_of_day":"morning"},
+      {"dose_mg": 500,
+      "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "TPM",
+    "prescription": [
+      {"dose_mg": 50}
+    ]
+  }
+  ],
+  "sessions": [
+		
+	      ]
+}

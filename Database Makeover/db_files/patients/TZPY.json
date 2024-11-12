@@ -1,0 +1,41 @@
+{
+    "diagnosis": {
+      "other": "?",
+      "region": [
+        {
+          "lobe": "temporal",
+          "lobe location": "mesial",
+          "side": "right"
+        }
+      ]
+    },
+    "aura":  false,
+    "medication": [
+    {
+      "name": "VPA",
+      "prescription": [
+        {"dose_mg":500,
+        "time_of_day":"morning"
+        },
+        {"dose_mg":500,
+        "time_of_day":"evening"
+        }
+      ]
+    },
+    {
+      "name": "ZNS",
+      "prescription": [
+        {"dose_mg":100,
+        "time_of_day":"morning"
+        },
+        {"dose_mg":100,
+        "time_of_day":"evening"
+        }
+      ]
+    }
+  ],
+    "sessions": [
+          
+            ]
+  }
+  

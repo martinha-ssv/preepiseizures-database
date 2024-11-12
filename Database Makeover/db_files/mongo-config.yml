@@ -1,0 +1,1 @@
+uri: "mongodb://preepiseizures:adminadmin@192.168.1.66:27017/preepiseizures?authSource=admin&directConnection=true&appName=mongosh+2.3.1"

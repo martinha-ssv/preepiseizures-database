@@ -1,0 +1,35 @@
+{
+  "gender": "m",
+  "diagnosis": {
+    "type": "focal", 
+    "other": "quistic lesion",
+    "region": {
+      "?":"?"
+    }
+  },
+  "aura":  false,
+  "medication": [
+  {
+    "name": "VPA",
+    "prescription": [
+      {"dose_mg":1000,
+      "time_of_day":"morning"
+      },
+      {"dose_mg":1000,
+      "time_of_day":"evening"
+      }
+    ]
+  },
+  {
+    "name": "ESL",
+    "prescription": [
+      {"dose_mg": 1200,
+      "time_of_day":"evening"
+      }
+    ]
+  }
+],
+  "sessions": [
+		
+	      ]
+}

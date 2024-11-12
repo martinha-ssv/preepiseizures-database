@@ -1,0 +1,44 @@
+{
+  "gender": "m",
+  "age":"+18",
+  "diagnosis": {
+    "type": "focal refractory"
+  },
+  "aura":  false,
+  "medication": [
+  {
+    "name": "ZBN",
+    "prescription":[
+    {"dose_mg": "???????"}
+    ]
+  },
+  {
+    "name": "valproate",
+    "prescription":[
+    {"dose_mg": 1000,
+    "time_of_day":"morning"},
+    {"dose_mg": 1000,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LEV",
+    "prescription":[
+      {"dose_mg": 1000,
+      "time_of_day":"morning"},
+      {"dose_mg": 1000,
+      "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "quetiapine",
+    "prescription":[
+    {"dose_mg": 200}
+    ]
+  }
+],
+  "commorbidities":["alcoholism"],
+  "sessions": [
+		
+	      ]
+}

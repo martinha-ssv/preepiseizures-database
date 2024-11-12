@@ -1,0 +1,34 @@
+{
+  "gender": "m",
+  "diagnosis": {
+    "type": "refractory", 
+    "region": [
+      {
+        "lobe": "temporal",
+        "lobe location": "mesial",
+        "side": "right"
+      }
+    ]
+  },
+  "aura":  false,
+  "medication": [
+  {
+    "name": "PHT",
+    "prescription":[
+    {"dose_mg": 200}
+    ]
+  },
+  {
+    "name": "ESL",
+    "prescription":[
+    {"dose_mg": 1200,
+    "time_of_day":"morning"},
+    {"dose_mg": 1600,
+    "time_of_day":"evening"}
+    ]
+  }
+],
+  "sessions": [
+		
+	      ]
+}

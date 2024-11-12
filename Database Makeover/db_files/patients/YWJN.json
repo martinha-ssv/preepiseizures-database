@@ -1,0 +1,37 @@
+{
+  "age": "-18",
+  "gender": "m",
+  "diagnosis": {
+    "type": "refractory",
+    "other": "total amigdalectomia, transection of left HC???"
+  },
+  "aura": false,
+  "medication": [
+  {
+    "name": "oxcarbazepine", 
+    "prescription":[
+    {"dose_mg": 600,
+    "time_of_day":"morning"},
+    {"dose_mg": 300,
+    "time_of_day":"noon"},
+    {"dose_mg": 600,
+    "time_of_day": "evening"}
+    ]
+  },
+  {
+    "name": "ZNS",
+    "prescription":[
+    {"dose_mg": 50,
+    "time_of_day":"morning"},
+    {"dose_mg": 50,
+    "time_of_day":"noon"},
+    {"dose_mg": 50,
+    "time_of_day":"evening"}
+    ]
+  }
+],
+  "commorbidities": "none",
+  "sessions": [
+		
+	      ]
+}

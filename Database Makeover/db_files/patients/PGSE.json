@@ -1,0 +1,50 @@
+{
+  "gender": "f",
+  "age": "+18",
+  "diagnosis": {
+    "type": "refractory", 
+    "region": [
+      {
+        "lobe": "temporal",
+        "lobe location": "mesial",
+        "side": "left"
+      }
+    ]
+  },
+  "aura": true,
+  "medication": [
+  {
+    "name": "VPA",
+    "prescription":[
+    {"dose_mg": 1000,
+    "time_of_day":"morning"},
+    {"dose_mg": 1000,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LTG",
+    "prescription":[
+    {"dose_mg": 100,
+    "time_of_day":"morning"},
+    {"dose_mg": 100, 
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LEV",
+    "prescription":[
+    {"dose_mg": 250,
+    "time_of_day":"morning"},
+    {"dose_mg": 500, 
+    "time_of_day":"evening"}
+    ]
+  }
+],
+  "commorbidities": [
+    "severe CET"
+  ],
+  "sessions": [
+		
+	      ]
+}

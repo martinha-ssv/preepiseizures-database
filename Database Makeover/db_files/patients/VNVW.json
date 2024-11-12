@@ -1,0 +1,44 @@
+{
+  "gender": "f",
+  "age": "+18",
+  "diagnosis": {
+    "type": "focal",
+    "other": "focal with generalization"
+  },
+  "aura": true,
+  "medication": [
+  {
+    "name": "VPA",
+    "prescription":[
+    {"dose_mg": 500,
+    "time_of_day":"morning"},
+    {"dose_mg": 500,
+    "time_of_day":"noon"},
+    {"dose_mg": 500,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LEV",
+    "prescription":[
+    {"dose_mg": 1000,
+    "time_of_day":"morning"},
+    {"dose_mg": 1000,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LCS",
+    "prescription":[
+    {"dose_mg": 150,
+    "time_of_day":"morning"},
+    {"dose_mg": 200,
+    "time_of_day":"evening"}
+    ]
+  }
+],
+  "commorbidities":["rhinitis", "asthma"],
+  "sessions": [
+		
+	      ]
+}

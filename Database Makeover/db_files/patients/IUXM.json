@@ -1,0 +1,51 @@
+{
+  "age": "-18",
+  "gender": "m",
+  "diagnosis": {
+    "type": "refractory", 
+    "other": "mesial sclerosis???"
+  },
+  "aura": true,
+  "medication": [
+  {
+    "name": "LEV",
+    "prescription":[
+    {"dose_mg": 500,
+    "time_of_day":"morning"},
+    {"dose_mg": 500,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "eslicarbazepine",
+    "prescription":[
+    {"dose_mg": 800,
+    "time_of_day":"morning"},
+    {"dose_mg": 800,
+    "time_of_day": "evening"}
+    ]
+  },
+  {
+    "name": "montelucast",
+    "prescription":[
+    {"dose_mg": "????"}
+    ]
+  },
+  {
+    "name": "brisomax",
+    "prescription":[
+    {"dose_mg": "50/100"}
+    ]
+  },
+  {
+    "name": "ventilan",
+    "prescription":[
+    {"time_of_day":"SOS"}
+    ]
+  }
+],
+  "commorbidities": ["asthma"],
+  "sessions": [
+		
+	      ]
+}

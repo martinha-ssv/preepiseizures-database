@@ -1,0 +1,47 @@
+{
+  "age": "+18",
+  "gender": "f",
+  "diagnosis": {
+    "type": "structural refractory"
+  },
+  "aura": false,
+  "medication": [
+  {
+    "name": "eutirox",
+    "prescription":[
+    {"dose_mg": 0.5}
+    ]
+  },
+  {
+    "name": "ZBN",
+    "prescription":[
+    {"dose_mg": 800}
+    ]
+  },
+  {
+    "name": "TPM",
+    "prescription":[
+      {"dose_mg": 100,
+      "time_of_day":"morning"},
+      {"dose_mg": 200,
+      "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "lorazepam"
+  },
+  {
+    "name": "fycompa??"
+  },
+  {
+    "name": "diplexil"
+  },
+  {
+    "name": "pravafenix??"
+  }
+],
+  "commorbidities": ["dislipidemia", "hipothiroidism"],
+  "sessions": [
+		
+	      ]
+}

@@ -1,0 +1,47 @@
+{
+  "gender": "m",
+  "age": "+18",
+  "diagnosis": {
+    "???": "?????"
+  },
+  "aura":  false,
+  "medication": [
+  {
+    "name": "CBZ",
+    "prescription":[
+    {"dose_mg": 400,
+    "time_of_day":"morning"},
+    {"dose_mg": 200,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "TPM",
+    "prescription":[
+    {"dose_mg": 100,
+    "time_of_day":"morning"},
+    {"dose_mg": 100,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LTG",
+    "prescription":[
+    {"dose_mg": 200,
+    "time_of_day":"morning"},
+    {"dose_mg": 200,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "perampanel",
+    "prescription":[
+    {"dose_mg": 4}
+    ]
+  }
+],
+  "commorbidities": ["none"],
+  "sessions": [
+		
+	      ]
+}

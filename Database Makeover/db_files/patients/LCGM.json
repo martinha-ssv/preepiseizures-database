@@ -1,0 +1,29 @@
+{
+  "gender": "f",
+  "diagnosis": {
+    "type": "focal", 
+    "region": [
+      {
+        "lobe": "temporal",
+        "lobe location": "anterior"
+      }
+    ]
+  },
+  "aura": false,
+  "medication": [
+  {
+    "name": "LEV",
+    "prescription": [
+      {"dose_mg":500,
+      "time_of_day":"morning"
+      },
+      {"dose_mg":500,
+      "time_of_day":"evening"
+      }
+    ]
+  }
+],
+  "sessions": [
+		
+	      ]
+}

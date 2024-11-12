@@ -1,0 +1,48 @@
+{
+  "age": "+18",
+  "gender": "m",
+  "diagnosis": {
+    "type": "refractory"
+  },
+  "medication": [
+  {
+    "name": "CBZ",
+    "prescription":[
+    {"dose_mg": 20,
+    "time_of_day":"morning"},
+    {"dose_mg": 20,
+    "time_of_day":"noon"},
+    {"dose_mg": 20,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LTG",
+    "prescription":[
+    {"dose_mg": 200,
+    "time_of_day":"morning"},
+    {"dose_mg": 200,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "oxcarbazepine",
+    "prescription":[
+    {"dose_mg": 600,
+    "time_of_day":"morning"},
+    {"dose_mg": 600,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "fycompa",
+    "prescription":[
+    {"dose_mg": 8}
+    ]
+  }
+],
+  "commorbidities": ["CET", "neonatal sepsis"],
+  "sessions": [
+		
+	      ]
+}

@@ -1,0 +1,8 @@
+{
+    "patientID": "BBYZ",
+    "no_clinical_seizures": 7,
+    "no_electrographical_seizures": 0,
+    "main_lobe": "??? should i just put the lobe or should i include more info about location?",
+    "interictal_activity": "slow and epileptiform temporal right???",
+    "records": []
+}

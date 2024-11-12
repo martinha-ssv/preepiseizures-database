@@ -1,0 +1,37 @@
+{
+  "gender": "f",
+  "diagnosis": {
+    "type": "focal refractory"
+  },
+  "aura": true,
+  "medication": [
+    {
+      "name": "LEV",
+      "prescription": [
+        {
+          "dose_mg": 1000,
+          "time_of_day": "morning"
+        },
+        {
+          "dose_mg": 1000,
+          "time_of_day": "evening"
+        }
+      ]
+    },
+    {
+      "name": "LCS",
+      "prescription": [
+        {
+          "dose_mg": 100,
+          "time_of_day": "morning"
+        },
+        {
+          "dose_mg": 100,
+          "time_of_day": "evening"
+        }
+      ]
+    }],
+  "sessions": [
+		
+	      ]
+}

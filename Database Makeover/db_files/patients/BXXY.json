@@ -1,0 +1,34 @@
+{
+  "diagnosis": {
+    "type": "refractory"
+  },
+  "aura":  false,
+  "medication": [
+  {
+    "name": "TPM",
+    "prescription": [
+      {"dose_mg": 100,
+      "time_of_day": "morning"
+      },
+      {"dose_mg": 100,  
+      "time_of_day": "evening"
+      }
+    ]
+  },
+  {
+    "name": "CBZ",
+    "prescription": [
+      {"dose_mg": 400,
+      "time_of_day": "morning"
+      },
+      {"dose_mg": 600,  
+      "time_of_day": "evening"
+      }
+    ]
+  }
+
+],
+  "sessions": [
+		
+	      ]
+}

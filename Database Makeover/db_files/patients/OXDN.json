@@ -1,0 +1,29 @@
+{
+  "gender": "m",
+  "age": "+18",
+  "diagnosis": {
+    "other": "atrophy",
+    "region": [
+      {
+        "lobe": "hippocampus",
+        "side": "right"
+      }
+    ]
+  },
+  "aura": true,
+  "medication": [
+  {
+    "name": "OCBZ",
+    "prescription":[
+    {"dose_mg": 600,
+    "time_of_day":"morning"},
+    {"dose_mg": 600,
+    "time_of_day":"evening"}
+    ]
+  }
+],
+  "commorbidities": "none",
+  "sessions": [
+		
+	      ]
+}

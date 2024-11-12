@@ -1,0 +1,13 @@
+{
+  "age": "+18",
+  "gender": "f",
+  "diagnosis": {
+    "type": "refractory",
+    "other": "mesial sclerosis"
+  },
+  "aura": false,
+  "commorbidities": ["hipertension", "depression", "dermatitis", "consanguinity"],
+  "sessions": [
+		
+	      ]
+}

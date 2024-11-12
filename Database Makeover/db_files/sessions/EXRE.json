@@ -1,0 +1,8 @@
+{
+    "patientID": "EXRE",
+    "no_clinical_seizures": 2,
+    "no_electrographical_seizures": 1,
+    "main_lobe": "temporal",
+    "interictal_activity": "Slow epileptiform T bilateral",
+    "records": []
+}

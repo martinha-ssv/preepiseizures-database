@@ -1,0 +1,65 @@
+{
+  "age": "+18",
+  "gender": "m",
+  "diagnosis": {
+    "type": "refractory"
+  },
+  "aura": false,
+  "medication": [
+  {
+    "name": "CBZ",
+    "prescription":[
+    {"dose_mg": 20,
+    "time_of_day":"morning"},
+    {"dose_mg": 30,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LCS",
+    "prescription":[
+    {"dose_mg": 100,
+    "time_of_day":"morning"},
+    {"dose_mg": 150,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LEV",
+    "prescription":[
+    {"dose_mg": 1000,
+    "time_of_day":"morning"},
+    {"dose_mg": 1500,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "VPA",
+    "prescription":[
+      {"dose_mg": 1000,
+      "time_of_day":"morning"},
+      {"dose_mg": 1500,
+      "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "venlafaxine",
+    "prescription":[
+    {"dose_mg": 150}
+    ]
+  },
+  {
+    "name": "propanolol",
+    "prescription":[
+      {"dose_mg": 20,
+      "time_of_day":"morning"},
+      {"dose_mg": 20,
+      "time_of_day":"evening"}
+    ]
+  }
+],
+  "commorbidities": "CET",
+  "sessions": [
+		
+	      ]
+}

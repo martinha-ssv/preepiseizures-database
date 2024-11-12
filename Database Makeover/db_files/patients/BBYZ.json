@@ -1,0 +1,45 @@
+{
+  "gender": "f",
+  "diagnosis": {
+    "type": "focal", 
+    "region": [
+      {
+        "lobe": "parietal",
+        "side": "right" 
+      }
+    ]
+  },
+  "aura": false,
+  "medication": 
+  [
+    {
+    "name": "LEV",
+    "prescription":
+    [
+      { 
+      "dose_mg": 1000, 
+      "time_of_day": "morning"
+      },
+      {"dose_mg": 1000,
+      "time_of_day": "evening"
+      }
+    ]
+    },
+    {
+    "name": "LTG",
+    "prescription":
+    [
+      { 
+      "dose_mg": 200, 
+      "time_of_day": "morning"
+      },
+      {"dose_mg": 200,
+      "time_of_day": "evening"
+      }
+    ]
+    }
+  ],
+  "sessions": [
+		
+	      ]
+}

@@ -1,0 +1,8 @@
+{
+    "patientID": "RAFI",
+    "no_clinical_seizures": 5,
+    "no_electrographical_seizures": 2,
+    "main_lobe": "FT  inferior temporal left",
+    "interictal_activity": "Slow and epileptiform F and FT right",
+    "records": []
+}

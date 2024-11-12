@@ -1,0 +1,45 @@
+{
+  "gender": "m",
+  "diagnosis": {
+    "type": "temporal refractory criptogenic", 
+    "region": [
+      {
+        "lobe": "temporal",
+        "lobe location": "mesial",
+        "side": "right"
+      }
+    ]
+  },
+  "aura": true,
+  "medication": [
+  {
+    "name": "ESL",
+    "prescription":[
+      {"dose_mg": 1200}
+      ]
+  },
+  {
+    "name": "VPA",
+    "prescription":[
+      {"dose_mg": 1000,
+      "time_of_day":"morning"},
+      {"dose_mg": 1000, 
+      "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "CLN",
+    "prescription":[
+      {"dose_mg": 2,
+      "time_of_day":"morning"
+    },
+    {"dose_mg": 1,
+      "time_of_day":"evening"
+    }
+  ]
+  }
+],
+  "sessions": [
+		
+	      ]
+}

@@ -1,0 +1,58 @@
+{
+  "age": "+18",
+  "gender": "m",
+  "diagnosis": {
+    "type": "structural refractory"
+  },
+  "aura": false,
+  "medication": [
+  {
+    "name": "LEV",
+    "prescription":[
+    {"dose_mg": 1500,
+    "time_of_day":"morning"},
+    {"dose_mg": 1000,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "CBZ??CR??",
+    "prescription":[
+    {"dose_mg":400, 
+    "time_of_day":"morning"},
+    {"dose_mg": 600,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "telmisartan+amlodipine???",
+    "prescription":[
+    {"dose_mg": 40,
+    "time_of_day":"morning"},
+    {"dose_mg": 50,
+    "time_of_day":"evening"}
+    ]
+  },{
+    "name": "amiloride+hydrochlorothiazide",
+    "prescription":[
+    {"dose_mg": 50}
+    ]
+  },
+  {
+    "name": "rosuvastatin",
+    "prescription":[
+    {"dose_mg": 10}
+    ]
+  },
+  {
+    "name": "folic acid",
+    "prescription":[
+    {"dose_mg": 5}
+    ]
+  }
+],
+  "commorbidities":["HTA","renal lithiase", "dislipidemia"],
+  "sessions": [
+		
+	      ]
+}

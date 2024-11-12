@@ -1,0 +1,50 @@
+{
+  "age": "+18",
+  "gender": "f",
+  "diagnosis": {
+    "type": "focal refractory"
+  },
+  "aura": true ,
+  "medication": [
+  {
+    "name": "LCS",
+    "prescription":[
+    {"dose_mg": 150,
+    "time_of_day":"morning"},
+    {"dose_mg": 150,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LEV",
+    "prescription":[
+    {"dose_mg": 1500,
+    "time_of_day":"morning"},
+    {"dose_mg": 1500,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "CBZ",
+    "prescription":[
+    {"dose_mg": 20}
+    ]
+  },
+  {
+    "name": "eslicarbazepine",
+    "prescription":[
+    {"dose_mg": 1200}
+    ]
+  },
+  {
+    "name": "folic acid",
+    "prescription":[
+    {"dose_mg": 5}
+    ]
+  }
+],
+  "commorbidities": ["none"],
+  "sessions": [
+		
+	      ]
+}

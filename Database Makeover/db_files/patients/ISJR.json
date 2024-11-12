@@ -1,0 +1,60 @@
+{
+  "gender": "f",
+  "diagnosis": {
+    "type": "refractory", 
+    "region": [
+      {
+        "lobe": "temporal",
+        "lobe location": "mesial",
+        "side": "left" 
+      }
+    ]
+  },
+  "aura": true,
+  "medication": [
+  {
+    "name": "CBZ",
+    "prescription":[
+    {"dose_mg": 400, 
+    "time_of_day": "morning"},
+    {"dose_mg": 400,
+    "time_of_day": "noon"},
+    {"dose_mg": 400,
+    "time_of_day": "evening"}
+    ]
+  },
+  {
+    "name": "LCS",
+    "prescription": [
+      {
+        "dose_mg": 150,
+        "time_of_day": "morning"
+      },
+      {
+        "dose_mg": 150,
+        "time_of_day": "evening"
+      }
+    ]
+  },
+  {
+    "name": "CNZ",
+    "prescription": [
+      {
+        "dose_mg": 1,
+        "time_of_day": "morning"
+      },
+      {
+        "dose_mg": 1,
+        "time_of_day": "noon"
+      },
+      {
+        "dose_mg": 2,
+        "time_of_day": "evening"
+      }
+    ]
+  }
+],
+  "sessions": [
+		
+	      ]
+}

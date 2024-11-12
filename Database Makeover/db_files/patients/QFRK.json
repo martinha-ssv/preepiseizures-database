@@ -1,0 +1,56 @@
+{
+  "gender": "m",
+  "diagnosis": {
+    "type": "focal refractory", 
+    "other": "operated glioma f left"
+  },
+  "aura":  false,
+  "medication": [
+  {
+    "name": "tegretol",
+    "prescription":[
+    {"dose_mg": 800,
+    "time_of_day":"morning"},
+    {"dose_mg": 400,
+    "time_of_day":"noon"},
+    {"dose_mg": 400,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "ZNS",
+    "prescription":[
+    {"dose_mg": 200,
+    "time_of_day":"morning"},
+    {"dose_mg": 100,
+    "time_of_day":"noon"},
+    {"dose_mg": 200,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "LCS",
+    "prescription":[
+    {"dose_mg": 200,
+    "time_of_day":"morning"},
+    {"dose_mg": 200,
+    "time_of_day":"evening"}
+    ]
+  },
+  {
+    "name": "phenobarbital",
+    "prescription":[
+    {"dose_mg": 100}
+    ]
+  },
+  {
+    "name": "perampanel",
+    "prescription":[
+    {"dose_mg": 12}
+    ]
+  }
+],
+  "sessions": [
+		
+	      ]
+}

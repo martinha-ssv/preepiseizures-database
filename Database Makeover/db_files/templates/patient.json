@@ -1,0 +1,27 @@
+{
+  "gender": "f",
+  "diagnosis": {
+    "type": "refractory", 
+    "region": [
+      {
+        "lobe": "temporal",
+        "lobe location": "mesial",
+        "side": "right"
+      }
+    ]
+  },
+  "aura": true false,
+  "medication": [
+  {
+    "name": 
+    "prescription":[
+    {"dose_mg": 
+    "time_of_day":}
+    ]
+  }
+],
+  "commorbidities":
+  "sessions": [
+		
+	      ]
+}

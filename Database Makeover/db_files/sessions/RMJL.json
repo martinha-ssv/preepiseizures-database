@@ -1,0 +1,8 @@
+{
+    "patientID": "RMJL",
+    "no_clinical_seizures": NaN,
+    "no_electrographical_seizures": NaN,
+    "main_lobe": "nan",
+    "interictal_activity": "nan",
+    "records": []
+}
